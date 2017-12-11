@@ -1,0 +1,46 @@
+body {
+    background-image: url("https://wowxwow.com/wp-content/uploads/2016/11/NGustafsson-Pastel-Dreamscape.jpg");
+}
+
+.jumbotron {
+    background-color: transparent;
+}
+
+#gameSection, #scoreSection {
+    background-color: transparent;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+#buttonSection {
+
+  
+    padding: 0px;
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+
+h1, h2, h3 {
+    font-family: 'Alfa Slab One', cursive;
+}
+
+p {
+    font-family: 'Ek Mukta', sans-serif;
+}
+
+.numberBox {
+    font-size: 100px;
+    margin: 0px;
+}
+
+
+.icons {
+    display: inline-block;
+    max-width: 100px;
+    max-height: 100px;
+    width: auto;
+    height: auto;
+    margin:10px;
+}
